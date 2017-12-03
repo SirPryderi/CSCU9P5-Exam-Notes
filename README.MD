@@ -126,6 +126,90 @@ Requirements engineering is
 
 
 # Project management, Risk Management and Teamwork
+## Project Management
+Makes sure that the software is:
+- delivered in time
+- in accordance with the requirements
+
+It is require because:
+- budged limitation
+- time limitation
+
+There are many difference between a software project and a real world engineering project such as a building. For instance, the final product is **intangible**, it has a greater deal of **flexibility**, and it has no fixed **standards**.
+
+
+Some of the activities carried out during software project management include:
+- Proposal writing
+- Project planning and scheduling
+- Project costing
+- Personnel selection and evaluation
+- Project monitoring and reviews
+- Report writing and presentations
+
+### Software Project Planning
+The project plan may address aspects of the **project design** such as:
+- Quality plan
+- Validation plan
+- Configuration management plan
+- Maintenance plan
+- Staff development plan
+
+But also aspects of the **development process**:
+- Introduction
+- Project organisation
+- Risk analysis
+- Hardware/Software
+- Work breakdown
+- Project schedule
+- Monitoring and reporting mechanisms
+
+### Road Map for Project management
+1. Understand the project content
+2. Identify development process
+  - Methods, tools, languages, documentation and support
+3. Determine organisational structure
+  - organisational elements involved
+4. Identify managerial process
+  - Responsibilities of the participants
+5. Develop schedule
+  - Times at which the work portions are to be performed
+6. Develop staffing plan
+7. Begin risk management
+8. Identify documents to be produced
+9. Begin the process
+  - On-going monitoring and reviewing
+
+### Project scheduling
+Project scheduling aims at:
+- Splitting the project into **tasks** and estimate **time** and **resources** required to complete each task
+- Organise tasks **concurrently** to make optimal use of the **workforce**
+- Minimise the task **dependencies** to avoid delay
+
+Some of the schemes that can be used for project scheduling are:
+- Activity network
+- Gantt Chart
+
+#### Functions, Activities, and Tasks chart
+- Functions
+  - Activities that span the duration of the project
+- Activities
+  - Major units of work with precise dates
+  - Consists in smaller activities or tasks
+  - Culminates in a **milestone**
+- Tasks
+
+
+- Milestones
+  - Internal checkpoints
+  - Scheduled event used to measure progress within the process
+  - They may produce a **baseline**
+- Baselines
+  - Formally reviewed work product
+  - Change requires formal procedures
+  - A fixed point to work on from
+
+## Risk Management
+## Teamwork
 
 # Legal, Social, Ethical and Professional Issues
 
