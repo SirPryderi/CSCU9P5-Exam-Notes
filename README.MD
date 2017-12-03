@@ -84,35 +84,40 @@ Requirements engineering is
 
 ## Requirements Engineering Process
 ![Requirements Engineering Process][RequirementsEngineeringProcess]
-- Feasibility Study
+
+### Feasibility Study
   - Can the users needs be satisfied with the current technology?
   - Is the project going to be cost-effective?
-- Requirements _Elicitation_ and _Analysis_
-  - Elicitation
-    - Extracting the requirements
-    - There are two approaches:
-      - Viewpoints
-        - A way of classifying _stakeholders_ and other sources of requirements
-      - Scenarios
-        - Real-life examples of how the system will be used
-        - Related to UML use-cases
-  - Analysis
-    - Discover problems and inconsistencies in the requirements
-    - Requirements change must be negotiated with the client
-- Requirements Specification
+
+### Requirements _Elicitation_ and _Analysis_
+#### Elicitation
+  - Extracting the requirements
+  - There are two approaches:
+    - Viewpoints
+      - A way of classifying _stakeholders_ and other sources of requirements
+    - Scenarios
+      - Real-life examples of how the system will be used
+      - Related to UML use-cases
+
+#### Analysis
+  - Discover problems and inconsistencies in the requirements
+  - Requirements change must be negotiated with the client
+
+### Requirements Specification
   - _Viewpoints_ and _Scenarios_ are represented in a structured way
   - Improves the understanding of the requirements
   - Must support the development of the systems
   - Must also be understandable by the stakeholders
   - Can be _formal_, _informal_ and _semi-formal_
-- Requirements Validation
-  - Requirements reviews
+
+### Requirements Validation
+ - Requirements reviews
     - Systematic manual checking
     - Stakeholders should be involved
   - Prototyping
     - Check requirements on the prototype
     - Stakeholders can try out the prototype
-  Test-case Generation
+  - Test-case Generation
     - Develop tests for the requirements
     - Can expose untestable requirements
     - All requirements should be tested, although some can be hard to test, such as:
@@ -123,7 +128,6 @@ Requirements engineering is
         - requirements that forbids a specific behaviour
       - Some non-functional requirements
         - reliability requirements
-
 
 # Project management, Risk Management and Teamwork
 ## Project Management
