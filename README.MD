@@ -197,6 +197,9 @@ Some of the schemes that can be used for project scheduling are:
   - Consists in smaller activities or tasks
   - Culminates in a **milestone**
 - Tasks
+  - Smaller units of work
+  - Easy to plan and track
+  - Large enough to avoid micromanagement
 
 
 - Milestones
