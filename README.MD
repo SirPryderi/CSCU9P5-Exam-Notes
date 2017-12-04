@@ -216,6 +216,28 @@ Some of the schemes that can be used for project scheduling are:
   - A fixed point to work on from
 
 ## Risk Management
+### The Process
+![Risk Management Process][RiskManagementProcess]
+- Risk identification
+  - Identify project, product and business risks
+  - Can be a team activity or assigned to the project manager
+  - Common risks:
+    - Technology risks
+    - People risks
+    - Organisational risks
+    - Requirements risks
+    - Estimation risks
+- Risk analysis
+  - Assess the likelihood, seriousness, and consequences of each risk
+- Risk planning
+  - Draw up plans to avoid or minimise the effects of the risk
+    - Avoidance strategies
+    - Minimisation strategies
+    - Contingency plans
+- Risk monitoring
+  - Monitor the risks throughout the project to see if probability and/or consequences have changed
+
+
 ## Teamwork
 
 # Legal, Social, Ethical and Professional Issues
@@ -224,3 +246,4 @@ Some of the schemes that can be used for project scheduling are:
 [BoehmSpiralModel]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/1200px-Spiral_model_%28Boehm%2C_1988%29.svg.png
 [WaterfallModel]: http://duncanpierce.org/files/images/Waterfall_model.png
 [RequirementsEngineeringProcess]: https://cdn-images-1.medium.com/max/1600/1*g9_1K3puHH37UoqP7d3M_g.png
+[RiskManagementProcess]: RiskManagementProcess.svg
