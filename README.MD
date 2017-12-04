@@ -301,6 +301,6 @@ Read more [here](http://www.belbin.com/media/1486/team-role-summary-descriptions
 [WaterfallModel]: http://duncanpierce.org/files/images/Waterfall_model.png
 [RequirementsEngineeringProcess]: https://cdn-images-1.medium.com/max/1600/1*g9_1K3puHH37UoqP7d3M_g.png
 [RiskManagementProcess]: RiskManagementProcess.svg
-[HierarchicalOrganisation]: HierarchicalOrganisation.png
+[HierarchicalOrganisation]: HierarchicalOrganisation.svg
 [EgolessTeam]: EgolessTeam.png
 [PeerOrganisation]: PeerOrganisation.png
