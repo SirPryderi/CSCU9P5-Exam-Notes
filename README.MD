@@ -14,7 +14,7 @@
 
 ## Software Development Life Cycles
 
-All Software development life cycles share these steps:
+All SDLCs share these steps:
   - Requirements
     - Understand what the the client or the users want
     - Often they do not know what they want
@@ -239,6 +239,60 @@ Some of the schemes that can be used for project scheduling are:
 
 
 ## Teamwork
+### Why working in a team?
+- Accomplish projects an individual cannot
+- Effective brainstorming (more point of views)
+- Detect flaws in solution
+- Build a workplace community
+
+### Why **not** working in a **large** team?
+- Adds line of communication equals to `n × (n - 1) ÷ 2` where `n` is the team size
+- Large teams have too much overhead and are hardly effective
+- The approximate optimal range seems to be from `3` to `7` members
+- **Meredith Belbin** said:
+> When effective decision-making is required, three selected teams of four are better than one group of twelve. ... small teams deliberating separately can quickly reach significant decisions.
+
+### Why **not** adding more people to a team?
+- More communication lines
+- Training cost/time
+- Lower productivity
+- **Brook's Law**:
+> Adding more people to a late project makes it later
+
+### Team Organisation Options
+- Hierarchical
+- Non-hierarchical
+  - Egoless Team
+- Peer Organisation
+- Project-based Organisation
+
+![Hierarchical Organisation][HierarchicalOrganisation]
+![Egoless Organisation][EgolessTeam]
+![Peer Organisation][PeerOrganisation]
+
+
+### Team Dynamics
+#### **Tuckermann** and **Jensen** (1965) Model
+A commonly accepted model of how teams form and become productive is due to **Tuckermann and Jensen**, with their four stages model.
+- **Forming** ─ The initial stage when the individual groups try to determine the purpose of the group and what role they will play
+- **Storming** ─ A conflict-filled stage in which the individuals try to form a group by resolving differences in goals and perspectives. The individuals struggle for status and power within the team
+- **Norming** ─ Having come to a common understanding of the goals and functioning of the team, the conflict disappears and members focus on the work at hand
+- **Performing** ─ The team has developed a clear identity with loyal team members who have a clear understanding of how the team operates and how they will interact as individuals
+
+#### **Belbin**'s Roles
+Meredith Belbin identified nine **team roles**. These roles are:
+- **Plant** ─ Generates ideas and solves difficult problems.
+- **Coordinator** ─ Clarify goals and delegates tasks effectively.
+- **Monitor**/**Evaluator** ─ Sees all options and judges accurately.
+- **Implementer** ─ Turns idea into actions and organises work that needs to be done.
+- **Completer**/**Finisher** ─ Searches out errors. Polishes and perfects.
+- **Resource Investigator** ─ Explores opportunities and develops contacts.
+- **Shaper** ─ Has the drive and courage to overcome obstacles.
+- **Teamworker** ─ Listens and averts friction.
+- **Specialist** ─They provide specialistic knowledge and skills.
+
+
+Read more [here](http://www.belbin.com/media/1486/team-role-summary-descriptions-2016.pdf).
 
 # Legal, Social, Ethical and Professional Issues
 
@@ -247,3 +301,6 @@ Some of the schemes that can be used for project scheduling are:
 [WaterfallModel]: http://duncanpierce.org/files/images/Waterfall_model.png
 [RequirementsEngineeringProcess]: https://cdn-images-1.medium.com/max/1600/1*g9_1K3puHH37UoqP7d3M_g.png
 [RiskManagementProcess]: RiskManagementProcess.svg
+[HierarchicalOrganisation]: HierarchicalOrganisation.png
+[EgolessTeam]: EgolessTeam.png
+[PeerOrganisation]: PeerOrganisation.png
