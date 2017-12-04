@@ -344,7 +344,54 @@ Professional bodies for IT are not yet well officially established, but the most
 ### Professional Codes
 Professional Code are **formal expression** of the expectations and requirements a professional organisation has for its members.
 
-## Legal issues   
+## Legal issues
+### IT Related Regulations
+#### 1990 ─ Computer Misuse Act
+The UK **Computer Misuse Act** came into force in **1990**. Three new criminal offences were introduced.
+1. **Unauthorised Access** ─ accessing (or attempting to) private computer material. This covers simple hacking and is an offence if if thing is changed.
+2. **Unauthorised Access for further offence** ─ This cover situations for example where the material obtained was used to access a person's bank account.
+3. **Unauthorised Modification** ─ modifying private computer material. This covers issues such as planting viruses, malicious deletion of files or altering bank account details.
+
+One area it is deemed to be ineffective is **denial-of-service** (DoS) attacks, where a target computer is saturated with requests and cannot operate properly, since no unauthorised access is performed. This issue is addressed by the **Police and Justice Act**.
+
+#### 1984/1998 ─ Data Protection Act
+Data Protection Act states that **personal data** must be:
+1. Processed fairly and lawfully and, in particular, shall not be processed unless:
+ - at least one of the conditions in Schedule 2 is met, and
+ - in the case of sensitive personal data, at least one of the conditions in Schedule 3 is also met.
+2. Obtained only for one or more specified and lawful purposes, and shall not be further processed in any manner incompatible with that purpose or those purposes.
+3. Adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed.
+4. Accurate and, where necessary, kept up to date.
+5. **Not** be kept for longer than is necessary for their purpose .
+6. Processed in accordance with the rights of data subjects (individuals).
+7. Protected with appropriate technical and organisational measures, against unauthorised or unlawful processing and against accidental loss or destruction, or damage.
+8. **Not** transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
+
+#### 2000 ─ Freedom of Information Act
+Grants **the public** access to information held by **public authorities**.
+In **conflict** with the **Data Protection Act**.
+
+#### 2000 ─ Regulation of Investigatory Powers Act (RIP)
+Empowers the **government** to:
+- Demand that an **ISP** provides access to a customer's **communications** in secret, i.e. to divulge the website you have visited and the email you have sent.
+- Demand your **decryption keys** so that they can access any encrypted data on your computer
+- Further activities
+
+#### 2002 ─ Cyber Security Act
+Allows **electronic surveillance**, such as internet and telephone tapping, without a **court order** in the US.
+
+#### 2006 ─ Police and Justice Act
+Among many other things, this act amends the **Computer Misuse Act** with the creation of certain offences including unauthorised acts with intent to impair the operation of a computer, such as a **DoS** attack.
+It also made illegal do produce **hacking tools**, even for legitimate use, such as **penetration testing**.
+
+### Ethical Issues and Conflicts
+There are conflicts between the **RIP** Act and the **Data Protection Act**, since one allows the government to freely access personal data, while the second enforces the security of the same personal data.
+
+Is there an **ethical** difference between:
+  - getting a **warrant** to gather personal data of a **suspect** and
+  - gathering information on **everybody** **pre-emptively**?
+
+
 ## Ethical issues
 ### What is Ethics?
 Ethics is the **Systematic study of morals**.
@@ -358,7 +405,6 @@ Reasons for following an ethical could include:
 - **Fear** ─ there may be sanctions imposed on those who act unethically.
 
 An action that is **unethical**, although not necessarily **illegal**.
-
 
 [BoehmSpiralModel]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/1200px-Spiral_model_%28Boehm%2C_1988%29.svg.png
 [WaterfallModel]: http://duncanpierce.org/files/images/Waterfall_model.png
