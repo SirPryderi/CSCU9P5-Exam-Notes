@@ -295,6 +295,69 @@ Meredith Belbin identified nine **team roles**. These roles are:
 Read more [here](http://www.belbin.com/media/1486/team-role-summary-descriptions-2016.pdf).
 
 # Legal, Social, Ethical and Professional Issues
+## Professional issues
+A profession operates on two levels:
+- **Practitioner Level** ─ professionals, knowledge, professional practice.
+- **Infrastructure Level** ─ Initial professional education, accreditation, skills, development, certification, professional development, code of ethics, professional society.
+
+### Basic technical competence
+A professional computing scientist must have:
+- **Firm knowledge** in the crucial areas of the field.
+- **In-depth knowledge** in one or more other areas of the discipline, depending upon the person's particular **area of practice**.
+
+A well-educated computing scientist should be able to apply fundamental concepts and techniques of:
+- **Computation**
+- **Algorithms**
+- **Computer Design**
+
+They must also **systematically improve** their professional knowledge and skills.
+
+### Professional Bodies
+In order to be a professional you need to be part of of a professional body.
+
+Professional bodies for IT are not yet well officially established, but the most important are:
+
+- UK
+  - **IET** ─ Institution of Engineering Technology
+  - **BCS** ─ The Chartered Institute for IT
+
+
+- USA
+  - **ACM** ─ Association for Computing Machinery
+  - **IEEE-CS** ─ Institution of Electrical and Electronic Engineers - Computer Society
+
+### Why is it important to be a Professional
+- Recognition by
+  - Peers
+  - Clients
+  - External Bodies
+  - The Public
+- Continuing professional development
+  - Preservation of qualification standards
+- Lobbying
+- Contracts and networking
+- _Closed-shop_ effects
+- Access to learned society activities
+- Financial and other services
+- Professional register
+
+### Professional Codes
+Professional Code are **formal expression** of the expectations and requirements a professional organisation has for its members.
+
+## Legal issues   
+## Ethical issues
+### What is Ethics?
+Ethics is the **Systematic study of morals**.
+It deals with the uncertainties and conflicts of opinion over matters of what is right and wrong conduct ethical conduct, or doing the right thing. or ding the right thing.
+
+Reasons for following an ethical could include:
+- **Trust** ─ an individual known to work within a consistent ethical framework is one who can be relied upon.
+- **Duty** ─ because it's the right thing to do.
+- **Security** ─ being aware of the consequences of your actions can guard against unexpected outcomes.
+- **Comfort** ─ peace of mind.
+- **Fear** ─ there may be sanctions imposed on those who act unethically.
+
+An action that is **unethical**, although not necessarily **illegal**.
 
 
 [BoehmSpiralModel]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/1200px-Spiral_model_%28Boehm%2C_1988%29.svg.png
