@@ -1,5 +1,67 @@
 # System and Software Engineering
 
+## Table of Contents
+* [System and Software Engineering](#system-and-software-engineering)
+  * [Why Software Engineering?](#why-software-engineering)
+  * [Software Development Life Cycles](#software-development-life-cycles)
+  * [The Waterfall Methodology](#the-waterfall-methodology)
+  * [Boehm's Spiral Model](#boehms-spiral-model)
+* [Requirements Capture and Analysis](#requirements-capture-and-analysis)
+  * [Requirements Engineering](#requirements-engineering)
+  * [System Identification](#system-identification)
+  * [Types of Requirements Engineering](#types-of-requirements-engineering)
+  * [Types of requirements](#types-of-requirements)
+  * [Requirements Engineering Process](#requirements-engineering-process)
+    * [Feasibility Study](#feasibility-study)
+    * [Requirements _Elicitation_ and _Analysis_](#requirements-elicitation-and-analysis)
+      * [Elicitation](#elicitation)
+      * [Analysis](#analysis)
+    * [Requirements Specification](#requirements-specification)
+    * [Requirements Validation](#requirements-validation)
+* [Project management, Risk Management and Teamwork](#project-management-risk-management-and-teamwork)
+  * [Project Management](#project-management)
+    * [Software Project Planning](#software-project-planning)
+    * [Road Map for Project management](#road-map-for-project-management)
+    * [Project scheduling](#project-scheduling)
+      * [Functions, Activities, and Tasks chart](#functions-activities-and-tasks-chart)
+  * [Risk Management](#risk-management)
+    * [The Process](#the-process)
+  * [Teamwork](#teamwork)
+    * [Why working in a team?](#why-working-in-a-team)
+    * [Why not working in a large team?](#why-not-working-in-a-large-team)
+    * [Why not adding more people to a team?](#why-not-adding-more-people-to-a-team)
+    * [Team Organisation Options](#team-organisation-options)
+    * [Team Dynamics](#team-dynamics)
+      * [Tuckermann and Jensen (1965) Model](#tuckermann-and-jensen-1965-model)
+      * [Belbin's Roles](#belbins-roles)
+* [Legal, Social, Ethical and Professional Issues](#legal-social-ethical-and-professional-issues)
+  * [Professional issues](#professional-issues)
+    * [Basic technical competence](#basic-technical-competence)
+    * [Professional Bodies](#professional-bodies)
+    * [Why is it important to be a Professional](#why-is-it-important-to-be-a-professional)
+    * [Professional Codes](#professional-codes)
+  * [Legal issues](#legal-issues)
+    * [IT Related Regulations](#it-related-regulations)
+      * [1990 ─ Computer Misuse Act](#1990--computer-misuse-act)
+      * [1984/1998 ─ Data Protection Act](#19841998--data-protection-act)
+      * [2000 ─ Freedom of Information Act](#2000--freedom-of-information-act)
+      * [2000 ─ Regulation of Investigatory Powers Act (RIP)](#2000--regulation-of-investigatory-powers-act-rip)
+      * [2002 ─ Cyber Security Act](#2002--cyber-security-act)
+      * [2006 ─ Police and Justice Act](#2006--police-and-justice-act)
+    * [Ethical Issues and Conflicts](#ethical-issues-and-conflicts)
+  * [Ethical issues](#ethical-issues)
+    * [What is Ethics?](#what-is-ethics)
+    * [Ethical Decision Making](#ethical-decision-making)
+    * [BCS Code of Conduct](#bcs-code-of-conduct)
+      * [Public Interest](#public-interest)
+      * [Professional Competence and Integrity](#professional-competence-and-integrity)
+      * [Duty to Relevant Authority](#duty-to-relevant-authority)
+      * [Duty to the Profession](#duty-to-the-profession)
+    * [Guidelines for resolving ethical dilemmas](#guidelines-for-resolving-ethical-dilemmas)
+
+
+
+
 ## Why Software Engineering?
 - Building large systems
 - Understanding requirements
@@ -15,29 +77,29 @@
 ## Software Development Life Cycles
 
 All SDLCs share these steps:
-  - Requirements
+  - **Requirements**
     - Understand what the the client or the users want
     - Often they do not know what they want
     - Often the clients are not the end users
     - Build early prototypes to better understand the user requirements
-  - Analysis
+  - **Analysis**
     - Identify what is going to be implemented
     - Identify the major components of the system
-  - Design
+  - **Design**
     - Identify major components
     - Decompose major components into subsystems
     - Interface major components with subsystems
     - Identify new components to bridge the problem domain and the solution domain
-  - Implementation
+  - **Implementation**
     - Code the components devised in the design phase
     - Integration of the components
     - Deploy the new system
-  - Testing
+  - **Testing**
     - Check that a component acts according to the requirements
     - Check if the system matches the requirements specifications
     - Check if the system meets the clients' expectations
     - Check if the system meets the users' expectations
-  - Maintenance
+  - **Maintenance**
     - Solve any issue that arises
     - Add new features if required
 
@@ -245,14 +307,14 @@ Some of the schemes that can be used for project scheduling are:
 - Detect flaws in solution
 - Build a workplace community
 
-### Why **not** working in a **large** team?
+### Why not working in a large team?
 - Adds line of communication equals to `n × (n - 1) ÷ 2` where `n` is the team size
 - Large teams have too much overhead and are hardly effective
 - The approximate optimal range seems to be from `3` to `7` members
 - **Meredith Belbin** said:
 > When effective decision-making is required, three selected teams of four are better than one group of twelve. ... small teams deliberating separately can quickly reach significant decisions.
 
-### Why **not** adding more people to a team?
+### Why not adding more people to a team?
 - More communication lines
 - Training cost/time
 - Lower productivity
@@ -272,14 +334,14 @@ Some of the schemes that can be used for project scheduling are:
 
 
 ### Team Dynamics
-#### **Tuckermann** and **Jensen** (1965) Model
+#### Tuckermann and Jensen (1965) Model
 A commonly accepted model of how teams form and become productive is due to **Tuckermann and Jensen**, with their four stages model.
 - **Forming** ─ The initial stage when the individual groups try to determine the purpose of the group and what role they will play
 - **Storming** ─ A conflict-filled stage in which the individuals try to form a group by resolving differences in goals and perspectives. The individuals struggle for status and power within the team
 - **Norming** ─ Having come to a common understanding of the goals and functioning of the team, the conflict disappears and members focus on the work at hand
 - **Performing** ─ The team has developed a clear identity with loyal team members who have a clear understanding of how the team operates and how they will interact as individuals
 
-#### **Belbin**'s Roles
+#### Belbin's Roles
 Meredith Belbin identified nine **team roles**. These roles are:
 - **Plant** ─ Generates ideas and solves difficult problems.
 - **Coordinator** ─ Clarify goals and delegates tasks effectively.
