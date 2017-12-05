@@ -404,7 +404,51 @@ Reasons for following an ethical could include:
 - **Comfort** ─ peace of mind.
 - **Fear** ─ there may be sanctions imposed on those who act unethically.
 
+### Ethical Decision Making
+Ethical decision making is not straightforward, since there are many upsides and downside for every decision, often leading to the point that there is **no right decision**, due the the very nature of ethics being **subjective**.
+
+On the other had, actor such as companies, need to act in their interest, otherwise they would cease to exist.
+
+Additionally, there might conflict between **short-term** and **long-term** interest.
+
+There are a few approaches to ethics, such us the rule of **harm minimisation** ─ chose the action that will lead to the least harm.
+
 An action that is **unethical**, although not necessarily **illegal**.
+
+### BCS Code of Conduct
+#### Public Interest
+1. You shall have due regard for public health, privacy, security and well being of others and the environment.
+2. You shall have due regard for the legitimate rights of Third Parties.
+3. You shall conduct your professional activities without discrimination on the grounds of sex, sexual orientation, marital status, nationality, colour, race, ethnic origin, religion, age or disability, or of any other condition or requirement.
+4. You shall promote equal access to the benefits of IT and seek to promote the inclusion of all sectors in society wherever opportunities arise.
+
+#### Professional Competence and Integrity
+1. You shall  only undertake to do work or provide a service that is within your professional competence.
+2. You shall  NOT claim any level of competence that you do not possess.
+3. You shall  develop your professional knowledge, skills and competence on a continuing basis, maintaining awareness of technological developments, procedures, and standards that are relevant to your field.
+4. You shall ensure that you have the knowledge and understanding of Legislation and that you comply with such Legislation, in carrying out your professional responsibilities.
+5. You shall respect and value alternative viewpoints and, seek, accept and offer honest criticisms of work.
+6. You shall avoid injuring others, their property, reputation, or employment by false or malicious or negligent action or inaction.
+7. You shall reject and will not make any offer of bribery or unethical inducement.
+
+#### Duty to Relevant Authority
+
+1. You shall carry out your professional responsibilities with due care and diligence in accordance with the Relevant Authority’s requirements whilst exercising your professional judgement at all times.
+2. You shall seek to avoid any situation that may give rise to a conflict of interest between you and your Relevant Authority.
+3. You shall accept professional responsibility for your work and for the work of colleagues who are defined in a given context as working under your supervision.
+4. You shall NOT disclose or authorise to be disclosed, or use for personal gain or to benefit a third party, confidential information except with the permission of your Relevant Authority, or as required by Legislation
+5. You shall NOT misrepresent or withhold information on the performance of products, systems or services (unless lawfully bound by a duty of confidentiality not to disclose such information), or take advantage of the lack of relevant knowledge or inexperience of others.
+
+#### Duty to the Profession
+1. You shall accept your personal duty to uphold the reputation of the profession and not take any action which could bring the profession into disrepute.
+2. You shall seek to improve professional standards through participation in their development, use and enforcement.
+3. Uphold the reputation and good standing of BCS, the Chartered Institute for IT.
+4. You shall act with integrity and respect in your professional relationships with all members of BCS and with members of other professions with whom you work in a professional capacity.
+5. You shall notify BCS if convicted of a criminal offence or upon becoming bankrupt or disqualified as a Company Director and in each case give details of the relevant jurisdiction.
+6. You shall encourage and support fellow members in their professional development.
+
+### Guidelines for resolving ethical dilemmas
+Addressing to professional body **code of conduct**, or to the **company policy** might be a way of solving ethical dilemmas, and back up your choices.
 
 [BoehmSpiralModel]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/1200px-Spiral_model_%28Boehm%2C_1988%29.svg.png
 [WaterfallModel]: http://duncanpierce.org/files/images/Waterfall_model.png
