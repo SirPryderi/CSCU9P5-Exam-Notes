@@ -1,6 +1,4 @@
-# System and Software Engineering
-
-## Table of Contents
+# Table of Contents
 * [System and Software Engineering](#system-and-software-engineering)
   * [Why Software Engineering?](#why-software-engineering)
   * [Software Development Life Cycles](#software-development-life-cycles)
@@ -59,8 +57,7 @@
       * [Duty to the Profession](#duty-to-the-profession)
     * [Guidelines for resolving ethical dilemmas](#guidelines-for-resolving-ethical-dilemmas)
 
-
-
+# System and Software Engineering
 
 ## Why Software Engineering?
 - Building large systems
@@ -75,7 +72,6 @@
 - Dividing the problem
 
 ## Software Development Life Cycles
-
 All SDLCs share these steps:
   - **Requirements**
     - Understand what the the client or the users want
