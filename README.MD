@@ -401,8 +401,8 @@ Professional Code are **formal expression** of the expectations and requirements
 ### IT Related Regulations
 #### 1990 ─ Computer Misuse Act
 The UK **Computer Misuse Act** came into force in **1990**. Three new criminal offences were introduced.
-1. **Unauthorised Access** ─ accessing (or attempting to) private computer material. This covers simple hacking and is an offence if if thing is changed.
-2. **Unauthorised Access for further offence** ─ This cover situations for example where the material obtained was used to access a person's bank account.
+1. **Unauthorised Access** ─ accessing (or attempting to) private computer material. This covers simple hacking, and is an offence even if nothing is changed.
+2. **Unauthorised Access for further offence** ─ this cover situations for example where the material obtained was used to access a person's bank account.
 3. **Unauthorised Modification** ─ modifying private computer material. This covers issues such as planting viruses, malicious deletion of files or altering bank account details.
 
 One area it is deemed to be ineffective is **denial-of-service** (DoS) attacks, where a target computer is saturated with requests and cannot operate properly, since no unauthorised access is performed. This issue is addressed by the **Police and Justice Act**.
