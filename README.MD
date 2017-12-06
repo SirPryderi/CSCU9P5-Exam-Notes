@@ -420,9 +420,17 @@ One area it is deemed to be ineffective is **denial-of-service** (DoS) attacks, 
 7. Protected with appropriate technical and organisational measures, against unauthorised or unlawful processing and against accidental loss or destruction, or damage.
 8. **Not** transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
+You also have the right to get a copy of the information that is held about you. This is known as **subject access request**.
+
 #### 2000 ─ Freedom of Information Act
-Grants **the public** access to information held by **public authorities**.
-In **conflict** with the **Data Protection Act**.
+The **Freedom of Information Act** provides **public access** to information held by **public authorities**.
+
+It does this in two ways:
+
+- public authorities are obliged to publish certain information about their activities; and
+- members of the public are entitled to request information from public authorities.
+
+In accordance to the **Data Protection Act** no personal data can be released.
 
 #### 2000 ─ Regulation of Investigatory Powers Act (RIP)
 Empowers the **government** to:
